@@ -1,1 +1,1 @@
-# sms-bomber-turkey
+# sms-bomber-turkey-full
